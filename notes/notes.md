@@ -1,85 +1,85 @@
-**"The Evolution of Trust"**
+**"Эволюция доверия"**
 
-This interactive guide is heavily based off Robert Axelrod's groundbreaking 1984 book, [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640)! I was also heavily inspired by his 1997 sequel, [The Complexity of Cooperation](http://press.princeton.edu/titles/6144.html), and Robert Putnam's 2000 book on America's declining "social capital", [Bowling Alone](http://bowlingalone.com/).
+Это интерактивное руководство основано на потрясающей книге Роберта Аксельрода (Robert Axelrod) 1984 года, [The Evolution of Cooperation](https://www.amazon.com/Evolution-Cooperation-Revised-Robert-Axelrod/dp/0465005640) (Эволюция сотрудничества)! Я был также сильно вдохновлен его продолжением 1997 года, [The Complexity of Cooperation](http://press.princeton.edu/titles/6144.html) (Сложность сотрудничества), и книгой Роберта Патнэма (Robert Putnam) 2000 года об уменьшающемся "социальном капитале" Америки, [Bowling Alone](http://bowlingalone.com/) (Боулинг в одиночку).
 
-yes i'm a bookworm nerd, plz don't bully me
+да, я книжный задрот, плиз не издевайтесь надо мной
 
-**"Fewer and fewer people say they trust each other"**
+**"Всё меньше и меньше людей говорят, что они доверяют друг другу"**
 
-To see a thorough statistical take on this, check out [Our World In Data](https://ourworldindata.org/trust). Mmmm stats~
+Чтобы увидеть подробный статистический анализ этого, проверьте [Our World In Data](https://ourworldindata.org/trust). Ммм статистика~
 
-**"The Game of Trust"**
+**"Игра на доверие"**
 
-This game is also known in game theory as the infamous *Prisoner's Dilemma*. The Prisoner's Dilemma is named after a story where two suspects can either squeal on their partner-in-crime ("cheat"), or stay silent ("cooperate"). I chose not to do this story because 1) in this case, both players "cooperating" would be bad for society, and 2) it's unrealistic, everyone knows that snitches get stitches
+Эта игра также известна в теории игр как печально известная *Дилемма Заключенного*. Дилемма заключенного названа в честь истории, в которой двое подозреваемых могут либо донести на своего преступного партнера-по-делу ("сжульничать"), либо молчать ("сотрудничать"). Я решил не делать эту историю, потому что 1) в этом случае оба "сотрудничающие" игрока были бы плохими для общества и 2) это нереально, все знают, что стукачи получают по заслугам
 
-**"You won't know in advance when the last round is"**
+**"Ты не будешь знать заранее, когда последний раунд"**
 
-In the repeated game of trust (also known as *Iterated Prisoner's Dilemma*), it's important that neither player knows *when* the last round is. Why? Think about it - on the last round, both players would know their action has no consequence, so they'd both cheat. But that means in the second-last round, their actions can't change the next round, so they'd also both cheat. But that means in the third-last round... etc etc.
+В повторяющейся игре на доверие (также известной как *Итерационной Дилемме Заключённого*) важно, чтобы ни один из игроков не знал, *когда* последний раунд. Зачем? Подумайте об этом - в последнем раунде, оба игрока будут знать, что их действие не имеет никакого значения, поэтому они оба сжульничают. Но это означает, что во предпоследнем раунде их действия не могут изменить следующий раунд, поэтому они также оба сжульничают. Но это означает, что в предпредпоследнем раунде... и т.д. и т.п.
 
-**"Copycat"**
+**"Имитатор"**
 
-This strategy is better known in game theory as *Tit For Tat*. It was created by Anatol Rapoport in 1980, for Robert Axelrod's game theory tournament. I chose not to use the name "Tit For Tat" because 1) it *sounds* mean, although it's a nice & fair strategy, and 2) a lot of the public have already heard about Tit For Tat, so if I used that name, players might just place their bets on this character because they've already heard of "Tit For Tat".
+Эта стратегия более известна в теории игр как *"Око за око"*. Она была создана Анатолием Рапопортом в 1980 году, для теории игрового турнира Роберта Аксельрода. Я решил не использовать имя "Око за око" потому что 1) это *звучит* грубовато, хотя это хорошая и справедливая стратегия, и 2) многие люди уже слышали об "Око за око", поэтому, если бы я использовал это название, игроки могли бы просто делать ставки на этого персонажа, потому что они уже слышали об "Око за око".
 
-**"You may be skeptical about the Christmas Truce"**
+**"Ты можешь скептически относиться к Рождественскому перемирию"**
 
-There was another guy who was skeptical, too. During the truce, a German corporal remarked with disgust, ["Such a thing should not happen in wartime. Have you no German sense of honor?"](http://time.com/3643889/christmas-truce-1914/)
+Был еще один парень, который тоже был настроен скептически. Во время перемирия немецкий капрал с отвращением заметил, ["Такого не должно быть в военное время. У вас нет немецкого чувства чести?"](http://time.com/3643889/christmas-truce-1914/)
 
-That man was Adolf Hitler.
+Этим человеком был Адольф Гитлер.
 
-You can't make this sh\*t up.
+Такое сложно было бы выдумать.
 
-**"For culture to evolve"**
+**"Чтобы культура развивалась"**
 
-There's a new, super-young interdisciplinary field that I'm really *excited* by, called *Cultural Evolution*. Admittedly, it's a bad name, not least because it sounds uncomfortably close to "Social Darwinism". Which it's not. Pinky promise.
+Есть новая, сверхъестественная междисциплинарная область, которая меня очень *волнует*, называется *Культурная Эволюция*. По общему признанию, это плохое имя, не в последнюю очередь потому, что оно звучит неудобно близко к "Социальному Дарвинизму". Но это не так. Честное пионерское.
 
-One core part of Cultural Evolution Theory is culture evolves the same way life does: through variation & selection. Variation: people differ in beliefs & behaviors, and invent new ones almost every day. Selection: people try to imitate their heroes & elders, and adopt their beliefs/behaviors.
+Одной из основных частей теории Культурной Эволюции является культура, развивающаяся так же, как и жизнь: посредством вариации и отбора. Вариация: люди отличаются убеждениями и поведением, и придумывают новые почти каждый день. Выбор: люди пытаются подражать своим героям и предкам, и принимают их убеждения/поведение.
 
-(Note: this is *not* quite Richard Dawkin's "meme" theory. "Meme" implies, that, like genes, ideas come in discrete chunks & replicate with high fidelity. This is obviously untrue. Also you can't say "meme" with a straight face these days, so whatever)
+(Примечание: это *не* совсем теория «мемов» Ричарда Докинза (Richard Dawkins). «Мем» подразумевает, что, подобно генам, идеи поступают в дискретные куски и воспроизводятся с высокой точностью. Это, очевидно, неверно. А ещё в наше время не получится сказать «мем» с серьезным лицом, так что пофиг)
 
-The reason why I think Cultural Evolution is so promising, is that it could integrate *all* the human sciences: psychology, sociology, economics, anthropology, political science, neuroscience, biology. The greatest problems of our time do not obey conventional academic boundaries – so, it's about dang time we created a common language between the sciences and humanities.
+Причина, по которой я думаю, что Культурная Эволюция настолько многообещающая, заключается в том, что она может объединить *все* гуманитарные науки: психологию, социологию, экономику, антропологию, политологию, неврологию, биологию. Самые большие проблемы нашего времени не подчиняются общепринятым академическим границам -- так что речь идет о времени, когда мы создали общий язык между науками и гуманитарием.
 
-If you want to learn more about Cultural Evolution Theory, I highly recommend Joseph Heinlich's 2015 book, [The Secret of Our Success](http://press.princeton.edu/titles/10543.html)!
+Если вы хотите больше узнать о теории Культурной Эволюции, я настоятельно рекомендую книгу Джозефа Генри (Joseph Henrich) 2015 года, [The Secret of Our Success](http://press.princeton.edu/titles/10543.html) (Секрет нашего успеха)!
 
-**"[Always Cheat's] exploitativeness was its downfall"**
+**"Эксплуататорством [Обманщики] вырыли себе же яму"**
 
-You may have heard that someone found a player strategy that can "exploit evolution". From the [Scientific American](https://www.scientificamerican.com/article/game-theory-calls-cooperation-into-question1/): "[Press & Dyson's results] suggested the best strategies were selfish ones that led to extortion, not cooperation."
+Возможно, вы слышали, что кто-то нашел стратегию игрока, которая может "эксплуатировать эволюцию". Из [Scientific American](https://www.scientificamerican.com/article/game-theory-calls-cooperation-into-question1/): "[Результат Press и Dyson] предполагал, что лучшие стратегии были эгоистичными, что привело к вымогательству, а не сотрудничеству."
 
-Press & Dyson's findings *are* really important, but Scientific American confused two different uses of the word "evolutionary". The first use, the way this interactive guide used it, was to mean that the *tournament's population* changes over time. The second use, the way P&D meant it, was that the *player's rules* changes over time. For example: Detective is "evolutionary" since it changes its own rules, while Copycat is *not* "evolutionary" since it sticks to its principles.
+Открытия Press и Dyson *действительно* важны, но Scientific American путал два разных использования слова "эволюционный". Первое, используемое этим интерактивным руководством, означало, что *популяция турнира* изменяется со временем. Второе использование, как это понимал P&D, состояло в том, что *стратегия игрока* меняется со временем. Например: Детектив является "эволюционным", поскольку он меняет свою собственную стратегию, а Имитатор -- *не* "эволюционный", поскольку он придерживается своих принципов.
 
-So, P&D found strategies that could exploit "evolutionary" *players* like Detective, but their strategies _still could not exploit the evolution of the tournament_, because in the long run, fair & nice strategies still win. 
+Таким образом, P&D нашел стратегии, которые могли бы использовать "эволюционные" *игроки*, такие как Детектив, но их стратегии *всё ещё не могли эксплуатировать эволюцию турнира*, потому что в долгосрочной перспективе честные и хорошие стратегии всё ещё выигрывают.
 
-**"We have fewer friends -- period."**
+**"У нас меньше друзей -- зацикленный круг."**
 
-Seriously, go read Robert Putnam's 2000 book, [Bowling Alone](http://bowlingalone.com/). Yeah it's a bit outdated by now, 17 years later, but its core findings and lessons are still true as ever -- probably even more so.
+Серьезно, прочитайте книгу Robert Putnam 2000 года, [Bowling Alone](http://bowlingalone.com/) (Боулинг в одиночку). Да, она уже немного устарела, 17 лет спустя, но её основные выводы и уроки по-прежнему верны как всегда -- возможно даже больше.
 
-**"Non-zero-sum game" / "Win-Win"**
+**"Игра без нулевой суммы" / "Беспроигрышная"**
 
-This is kinda cheesy, but I still adore the 1989 book, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) -- especially Habit #4: Think Win-Win.
+Эта на любителя, но я всё ещё обожаю книгу 1989 года, [The Seven Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/0743269519) (Семь навыков высокоэффективных людей) -- особенно Навык 4. Думайте в духе «Выирал/выиграл».
 
-Because, contrary to popular belief, coming up with Win-Win solutions is hard, takes lots of effort, and is emotionally painful. Heck, I'd go even further – I'd say our culture's default stance of Win-Lose "us versus them" is the easy path, the lazy path, the equivalent of activism junk food.
+Потому что, вопреки распространенному мнению, придумывать беспроигрышные решения сложно, требует больших усилий и эмоционально больно. Черт возьми, я бы пошёл ещё дальше - я бы сказал, что наша культурная позиция по-умолчанию "мы против них" - это легкий путь, ленивый путь, эквивалент фаст фуда.
 
-Anyway. Exaggerations aside, I strongly believe "Win-Win" / "Non-Zero-Sum" is something we all urgently need -- in our personal lives, social lives, and _definitely_ political lives.
+В общем, если без преувеличений, я твёдо верю, что "беспроигрышная" / "не нулевая сумма" это то что нам всем срочно необходимо -- в нашей личной жизни, социальной жизни, и *определённо* в политической жизни.
 
-**"Copykitten"**
+**"Подражатель"**
 
-Just like how Copycat's original name was Tit For Tat, Copykitten's original name is *Tit For Two Tats*. Same rule: Cooperate, unless the other players cheats *twice* in a row.
+Точно так же, как и оригинальное имя Имитатора это "Око за око", оригинальное имя Подражателя это *"Око за два ока"*. То же правило: сотрудничать, пока другие игроки не обманывают *дважды* подряд.
 
-There's another forgiving variant of Tit For Tat called *Generous Tit For Tat*. It's got a similar but slightly different rule: Cooperate, but when the other player cheats, forgive them with a X% chance. This design, with the variable "X", lets you set different "forgiveness" levels for the player.
+Есть еще один прощающий вариант "Око за око", называемый *"Око за око с прощением"*. У этого есть аналогичное, но немного другое правило: сотрудничать, но если другие игроки жульничают, то прощать их с X% вероятностью. Этот дизайн с переменной "X" позволяет вам устанавливать разные уровни "снисхождения" для игрока.
 
-**"Simpleton"**
+**"Простак"**
 
-Also known as Pavlov, or Win-Shift-Lose-Stay.
+Также известен как Павлов или Выиграл-Останься-Проиграл-Переключись.
 
-**"Our modern media [...] has increased our miscommunication"**
+**"Наши СМИ [...] увеличили наше недопонимание"**
 
-I'm only in my twenties, I don't know why I always sound like an old grump shaking my fist at a cloud. But, yeah, anyway, go read Neil Postman's 1985 book, [Amusing Ourselves To Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X). It's about how the communications technology we use subtly shapes our culture ("the medium is the message") and how technology that is biased towards quick & fast information (TV in 1985, social media now) turns us all into trivial, short-term thinkers.
+Мне еще даже нет тридцати, я не знаю, почему я всегда звучу как старый ворчун, трясущий кулаком на облака. Но, да, во всяком случае, прочитайте книгу Нейла Постмана (Neil Postman) 1985 года, [Amusing Ourselves To Death](https://www.amazon.com/Amusing-Ourselves-Death-Discourse-Business/dp/014303653X) (Развлекаемся до смерти). Речь идет о том, как коммуникационные технологии, которые мы используем, тонко формируют нашу культуру ("среда - это сообщение") и как технология, которая предвзята к быстрой информации (ТВ в 1985 году, социальные медиа сейчас) превращает нас всех в тривиальных, краткосрочных мыслителей.
 
-Although I don't agree with _everything_ in his book, it's a real eye-opener, and surprisingly prescient for 1985. His rant against Sesame Street is kinda weird, though.
+Хотя я не согласен со *всем* в его книге, это настоящий открытый взгляд и удивительно предсказуемый для 1985 года. Однако его разглагольствование на Улице Сезам, немного странное.
 
-**"Build relationships. Find win-wins. Communicate clearly."**
+**"Строй отношения. Находи беспроигрышные решения. Общайся чётко."**
 
-Giving advice can come off as condescending, so let me be perfectly honest: I do *not* have any of this figured out, personally. I'm bad at developing friendships, especially with people of different political views than me. I occasionally forget about win-wins, and lapse into "us versus them" thinking. And judging by this rambling, I'm also still terrible at communicating clearly.
+Предоставление совета может расцениваться как снисхождение, поэтому позвольте мне быть совершенно честным: я *не* до конца со всем этим разобрался. Я плохо разбираюсь в дружбе, особенно с людьми отличных от моих политических взглядов. Я иногда забываю о беспроигрышных решениях и размышляю о "мы против них". И, судя по всему этому бормотанию, я всё ещё ужасен в общении.
 
-But I want to get better. This stuff is *hard*. Building peace & trust in the world, from the bottom up, is *hard*.
+Но я хочу становиться лучше. Это все *тяжёло*. Построение мира и доверия на земле снизу вверх *тяжело*.
 
-And that's why it's worth it. <3
+И именно поэтому оно того стоит. <3
