@@ -41,7 +41,8 @@
 [French](https://ayowel.github.io/trust/),
 [Spain Spanish](https://ccamara.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
-[Italian](https://lvdt.github.io/trust/)
+[Italian](https://lvdt.github.io/trust/),
+[Turkish](https://osaatcioglu.github.io/trust)
 
 # "LICENSE"
 
