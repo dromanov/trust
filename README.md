@@ -34,15 +34,19 @@
 
 # Другие локализации
 
-[English](http://ncase.me/trust/),
-[Chinese](http://sekai.co/trust/),
+[Chinese (Simplified)](https://sekai.co/trust/),
 [Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
 [Brazilian Portuguese](https://brunolemos.github.io/trust/),
 [French](https://ayowel.github.io/trust/),
 [Spain Spanish](https://ccamara.github.io/trust/),
+[Russian](https://notdotteam.github.io/trust/),
 [German](https://jkoelling.github.io/trust/),
 [Italian](https://lvdt.github.io/trust/),
-[Turkish](https://osaatcioglu.github.io/trust)
+[Turkish](https://osaatcioglu.github.io/trust),
+[Polish](https://sin.github.io/trust/),
+[Vietnamese](https://nghiatt90.github.io/trust-vn/),
+[Greek](https://lightspot21.github.io/trust/),
+[Persian/Farsi](https://hamed.github.io/trust/)
 
 # "LICENSE"
 
